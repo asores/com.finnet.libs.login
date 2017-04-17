@@ -19,4 +19,4 @@
 
 # com.finnet.libs.login
 
-Plugin documentation: [doc/index.md](doc/index.md)
+Plugin documentation: [index.md](index.md)
