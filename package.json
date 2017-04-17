@@ -1,0 +1,31 @@
+{
+  "name": "com.finnet.libs.login",
+  "version": "0.0.1",
+  "description": "Finnet Login Plugin",
+  "cordova": {
+    "id": "com.finnet.libs.login",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "device",
+    "ecosystem:cordova",
+	"cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Wymsee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wymsee/cordova-HTTP/issues"
+  },
+  "homepage": "https://github.com/wymsee/cordova-HTTP#readme"
+}
